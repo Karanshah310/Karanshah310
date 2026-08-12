@@ -18,24 +18,24 @@
 
 <br/>
 
-<a href="https://github.com/karanshah">
+<a href="https://github.com/Karanshah310">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/karan-shah/">
+<a href="https://www.linkedin.com/in/karan-shah310/">
 <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:karan@example.com">
+<a href="mailto:hs7452320@gmail.com">
 <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/karanshah">
+<a href="https://github.com/Karanshah310">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=karanshah&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/karanshah?label=FOLLOWERS&style=flat-square&color=6366F1" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/karanshah?label=STARS&style=flat-square&color=8B5CF6" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Karanshah310&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Karanshah310?label=FOLLOWERS&style=flat-square&color=6366F1" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Karanshah310?label=STARS&style=flat-square&color=8B5CF6" alt="Stars"/>
 
 </div>
 
@@ -132,7 +132,7 @@ The system combines an **ESP32-CAM, remote-controlled vehicle architecture, sens
 | **Performance** | Real-time camera streaming and lightweight detection workflow      |
 | **Security**    | Controlled communication architecture and restricted device access |
 | **Impact**      | Designed to support disaster reconnaissance and human detection    |
-| **Repository**  | [GitHub Repository](https://github.com/karanshah)                  |
+| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)               |
 
 **Engineering Scope**
 
@@ -159,7 +159,7 @@ A blockchain-oriented platform concept designed to improve trust between project
 | **Performance** | Modular frontend/backend architecture                    |
 | **Security**    | Smart-contract-based agreement model                     |
 | **Impact**      | Improves transparency between creators and investors     |
-| **Repository**  | [GitHub Repository](https://github.com/karanshah)        |
+| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)     |
 
 **Engineering Scope**
 
@@ -186,7 +186,7 @@ A modern sports-focused web platform designed to provide a polished digital pres
 | **Performance** | Component-driven frontend and optimized assets       |
 | **Security**    | Standard frontend security and deployment practices  |
 | **Impact**      | Digital platform for sports and athletics engagement |
-| **Repository**  | [GitHub Repository](https://github.com/karanshah)    |
+| **Repository**  | [GitHub Repository](https://github.com/Karanshah310) |
 
 **Engineering Scope**
 
@@ -206,14 +206,14 @@ A modern sports-focused web platform designed to provide a polished digital pres
 
 A collaborative platform concept developed for a hackathon to connect people who want to exchange technical and professional skills.
 
-| Attribute       | Details                                           |
-| :-------------- | :------------------------------------------------ |
-| **Stack**       | React · Node.js · Express · MongoDB               |
-| **Scale**       | Hackathon full-stack prototype                    |
-| **Performance** | REST-oriented application architecture            |
-| **Security**    | Authentication and database-access considerations |
-| **Impact**      | Enables peer-to-peer knowledge and skill exchange |
-| **Repository**  | [GitHub Repository](https://github.com/karanshah) |
+| Attribute       | Details                                             |
+| :-------------- | :------------------------------------------------   |
+| **Stack**       | React · Node.js · Express · MongoDB                 |
+| **Scale**       | Hackathon full-stack prototype                      |
+| **Performance** | REST-oriented application architecture              |
+| **Security**    | Authentication and database-access considerations   |
+| **Impact**      | Enables peer-to-peer knowledge and skill exchange   |
+| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)|
 
 **Engineering Scope**
 
@@ -291,7 +291,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Karan_shah310/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
@@ -321,7 +321,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=karanshah&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Karanshah310&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
@@ -331,7 +331,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karanshah&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Karanshah310&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -341,7 +341,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanshah&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karanshah310&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -351,7 +351,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karanshah/karanshah/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Karanshah310/Karanshah310/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -395,19 +395,19 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:karan@example.com">
+<a href="mailto:hs7452320@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/karan-shah/">
+<a href="https://www.linkedin.com/in/karan-shah310/">
 <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/karanshah">
+<a href="https://github.com/Karanshah310">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/karanshah">
+<a href="https://github.com/Karanshah310">
 <img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
