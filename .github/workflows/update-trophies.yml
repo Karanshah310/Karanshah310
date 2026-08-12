@@ -1,0 +1,31 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophies
+        uses: Karanshah310/github-profile-trophy@master
+        with:
+          username: Karanshah310
+          output_path: trophy.svg
+          token: ${{ secrets.PAT_1 }}
+          theme: darkhub
+
+      - name: Commit Trophy SVG
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update GitHub trophies"
+          file_pattern: trophy.svg
