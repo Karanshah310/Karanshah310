@@ -18,7 +18,7 @@
 
 <br/>
 
-<a href="https://github.com/Karanshah310">
+<a href="https://urbanathletics.in/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/karan-shah310/">
@@ -132,7 +132,7 @@ The system combines an **ESP32-CAM, remote-controlled vehicle architecture, sens
 | **Performance** | Real-time camera streaming and lightweight detection workflow      |
 | **Security**    | Controlled communication architecture and restricted device access |
 | **Impact**      | Designed to support disaster reconnaissance and human detection    |
-| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)               |
+| **Repository**  | Not publicly available                                             |
 
 **Engineering Scope**
 
@@ -159,7 +159,7 @@ A blockchain-oriented platform concept designed to improve trust between project
 | **Performance** | Modular frontend/backend architecture                    |
 | **Security**    | Smart-contract-based agreement model                     |
 | **Impact**      | Improves transparency between creators and investors     |
-| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)     |
+| **Repository**  | Not publicly available                                   |
 
 **Engineering Scope**
 
@@ -179,14 +179,16 @@ A blockchain-oriented platform concept designed to improve trust between project
 
 A modern sports-focused web platform designed to provide a polished digital presence for athletics activities, events and related content.
 
-| Attribute       | Details                                              |
-| :-------------- | :--------------------------------------------------- |
-| **Stack**       | React · TypeScript · Vite · Tailwind CSS             |
-| **Scale**       | Production-oriented responsive web platform          |
-| **Performance** | Component-driven frontend and optimized assets       |
-| **Security**    | Standard frontend security and deployment practices  |
-| **Impact**      | Digital platform for sports and athletics engagement |
-| **Repository**  | [GitHub Repository](https://github.com/Karanshah310) |
+| Attribute       | Details                                                                |
+| :-------------- | :--------------------------------------------------------------------- |
+| **Stack**       | React · TypeScript · Vite · Tailwind CSS                               |
+| **Scale**       | Production-oriented responsive web platform                            |
+| **Performance** | Component-driven frontend and optimized assets                         |
+| **Security**    | Standard frontend security and deployment practices                    |
+| **Impact**      | Digital platform for sports and athletics engagement                   |
+| **Repository**  | [GitHub Repository](https://github.com/Karanshah310/urbanathleticsnet) |
+
+**Live Website:** [urbanathletics.in](https://urbanathletics.in/)
 
 **Engineering Scope**
 
@@ -206,14 +208,14 @@ A modern sports-focused web platform designed to provide a polished digital pres
 
 A collaborative platform concept developed for a hackathon to connect people who want to exchange technical and professional skills.
 
-| Attribute       | Details                                             |
-| :-------------- | :------------------------------------------------   |
-| **Stack**       | React · Node.js · Express · MongoDB                 |
-| **Scale**       | Hackathon full-stack prototype                      |
-| **Performance** | REST-oriented application architecture              |
-| **Security**    | Authentication and database-access considerations   |
-| **Impact**      | Enables peer-to-peer knowledge and skill exchange   |
-| **Repository**  | [GitHub Repository](https://github.com/Karanshah310)|
+| Attribute       | Details                                           |
+| :-------------- | :------------------------------------------------ |
+| **Stack**       | React · Node.js · Express · MongoDB               |
+| **Scale**       | Hackathon full-stack prototype                    |
+| **Performance** | REST-oriented application architecture            |
+| **Security**    | Authentication and database-access considerations |
+| **Impact**      | Enables peer-to-peer knowledge and skill exchange |
+| **Repository**  | Not publicly available                            |
 
 **Engineering Scope**
 
@@ -295,18 +297,6 @@ Worked in a professional environment focused on digital products, web technologi
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
 </div>
 
 ---
@@ -315,9 +305,9 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanshah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karanshah310&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanshah&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanshah310&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
@@ -351,7 +341,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Karanshah310/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Karanshah310/Karanshah310/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -396,19 +386,19 @@ Open To:
 <div align="center">
 
 <a href="mailto:hs7452320@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-hs7452320%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karan-shah310/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Karan%20Shah-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Karanshah310">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Karanshah310-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/Karanshah310">
-<img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://urbanathletics.in/">
+<img src="https://img.shields.io/badge/Portfolio-Urban%20Athletics-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
