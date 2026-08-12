@@ -321,7 +321,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="./trophy/github-trophies.svg" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/Karanshah310/Karanshah310/main/trophy/github-trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
