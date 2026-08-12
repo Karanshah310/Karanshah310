@@ -1,0 +1,39 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophies
+        run: |
+          mkdir -p trophy
+
+          curl -L \
+            "https://github-profile-trophy.vercel.app/?username=Karanshah310&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" \
+            -o trophy/github-trophies.svg
+
+      - name: Commit trophy image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add trophy/github-trophies.svg
+
+          if git diff --cached --quiet; then
+            echo "No trophy changes."
+          else
+            git commit -m "chore: update GitHub trophies"
+            git push
+          fi
