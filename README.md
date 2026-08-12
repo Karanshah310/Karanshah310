@@ -321,7 +321,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karanshah310&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="./trophy/github-trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
