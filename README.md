@@ -351,7 +351,7 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Karanshah310/Karanshah310/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Karanshah310/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
