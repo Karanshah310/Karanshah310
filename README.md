@@ -305,13 +305,13 @@ Worked in a professional environment focused on digital products, web technologi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-flax-eight-31.vercel.app/api?username=Karanshah310&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karanshah310&show_icons=true&theme=dark"/>
 
 <img height="180em" src="https://github-readme-stats-flax-eight-31.vercel.app/api/top-langs/?username=Karanshah310&layout=compact"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Karanshah310&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Karanshah310&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
